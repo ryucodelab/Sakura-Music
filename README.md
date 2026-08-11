@@ -48,7 +48,7 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/username/sakura-music.git
+git clone https://github.com/ryucodelab/sakura-music.git
 cd sakura-music
 ```
 
